@@ -1,0 +1,31 @@
+.input{
+    background-color: rgb(244, 236, 224);
+    width: auto;
+}
+.complete{
+    background-color: rgb(238, 233, 225);
+}
+ .input::placeholder{
+    color: rgb(10, 7, 7);
+ }
+
+ .icon{
+    width: 12;
+    height: 12;
+ }
+
+
+.sort{
+    /* background-color: rgb(210, 210, 210); */
+    background-color: white;
+    color: black;
+} 
+.sort:hover{
+    color: white;
+    background-color: black;
+}
+
+.Transac{
+    color: blanchedalmond;
+}
+
